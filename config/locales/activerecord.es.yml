@@ -1,0 +1,46 @@
+es:
+  activerecord:
+    models:
+      category:
+        one: Categoría
+        other: Categorías
+      property:
+        one: Propiedad
+        other: Propiedades
+      user:
+        one: Usuario
+        other: Usuarios
+      agent:
+        one: Agente Inmobiliario
+        other: Agentes Inmobiliarios
+      comment:
+        one: Comentario
+        other: Comentarios
+    attributes:
+      property/operations:
+        rent: Alquiler
+        sale: Venta
+        temporal_rent: Alquiler Temporario
+      property:
+        category: Categoría
+        name: Nombre
+        address: Dirección
+        state: Provincia
+        country: País
+        area: Area
+        bedrooms: Dormitorios
+        bathrooms: Baños
+        year_of_build: Año de Construcción
+        car_parking: Cochera para
+        featured: Propiedad Destacada
+        operation: Operación
+        active: Activa
+      category:
+        name: Nombre
+        description: Descripción
+      agent:
+        name: Nombre
+        role: Rol
+        description: Descripción
+        phone: Teléfono
+

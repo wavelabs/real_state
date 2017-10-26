@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  address: MyString
+  state: MyString
+  country: MyString
+  area: 1
+  bedrooms: 1
+  bathrooms: 1
+  year_of_build: 1
+  car_parking: 1
+
+two:
+  name: MyString
+  address: MyString
+  state: MyString
+  country: MyString
+  area: 1
+  bedrooms: 1
+  bathrooms: 1
+  year_of_build: 1
+  car_parking: 1
